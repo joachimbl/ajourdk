@@ -1,0 +1,11 @@
+@import url(style.css);
+
+
+html .mceContentBody {
+	max-width: 930px;
+	background: #EDEDED url(images/background.jpg) top center;
+}
+
+div{
+	background: rgba(255, 255, 255, .4);
+}

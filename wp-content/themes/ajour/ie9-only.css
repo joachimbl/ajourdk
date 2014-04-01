@@ -1,0 +1,11 @@
+#wrapper .tooltip{
+	background: #338AA6;
+	border: 1px solid #0D2F40;
+	padding: 20px;
+}
+
+.whitebox{
+	background: #fff;
+	border: 1px solid #ccc;
+	padding: 19px;
+}

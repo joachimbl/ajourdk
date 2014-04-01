@@ -1,0 +1,52 @@
+#wrapper .tooltip{
+	background: #338AA6;
+	border: 1px solid #0D2F40;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#338AA6, endColorstr=#0D2F40);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#338AA6, endColorstr=#0D2F40)";
+	padding: 20px;
+}
+
+.whitebox{
+	background: #fff;
+	border: 1px solid #ccc;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff, endColorstr=#dddddd);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff, endColorstr=#dddddd)";
+	padding: 19px;
+}
+
+#header .menu ul{
+	background: #0D2F40;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#338AA6, endColorstr=#0D2F40);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#338AA6, endColorstr=#0D2F40)";
+}
+
+#header .menu li a{
+	margin: -1px 0 -1px 0;
+}
+
+#header .menu li:hover ul .current_page_item a,
+#header .menu li .focused .current_page_item a{
+	background: #338AA6;
+}
+
+.sbHolder a{
+	background: #ccc;
+}
+
+.post .thumbnail{
+	border: 1px solid #ccc;
+}
+
+#page778 .other{
+	background: #666;
+}
+
+.subpage{
+	background: #ddd;
+	color: #777;
+}
+
+.subpage:hover{
+	background: #333;
+	color: #fff;
+}
